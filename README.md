@@ -1,2 +1,2 @@
 # Database-Library-Project
-Database project dont for class, collaborated with another student for website.
+Database project done for database systems, collaborated with another student for website.
